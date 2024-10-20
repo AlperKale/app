@@ -1,0 +1,6 @@
+# app
+git dersleri
+
+
+
+l
